@@ -1,0 +1,3 @@
+# Star Bao（尚未設定正式網域：暫時禁止抓取）
+User-agent: *
+Disallow: /
